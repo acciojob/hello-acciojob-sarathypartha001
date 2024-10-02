@@ -1,15 +1,12 @@
 
-/* Your CSS Code here. */
 .accio {
-            width: 200px;
-            height: 200px;
-            background-color: #000000; /* Black background */
-        }
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+}
 
-        /* Style for the paragraph element */
-        .hello-accio {
-            color: #ffffff; /* White text color */
-            margin-left: 32px; /* Left margin */
-            padding: 10px; /* Padding on all sides */
-			padding-top: 80px;
-        }
+.hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
+}
